@@ -4,7 +4,7 @@
   <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
   <link href="http://supersonicfox.github.io/atom.xml" rel="self"/>
   <link href="http://supersonicfox.github.io/"/>
-  <updated>2014-06-07T18:47:56-07:00</updated>
+  <updated>2014-06-07T19:05:23-07:00</updated>
   <id>http://supersonicfox.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,51 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[More 3]]></title>
-    <link href="http://supersonicfox.github.io/blog/more3/"/>
-    <updated>2014-06-01T16:42:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/more3</id>
-    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
-to more people, but if you are interested in the software / programming parts, these will be woven in as well.</p>
-
-<p>Passed 30K words.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More 2]]></title>
-    <link href="http://supersonicfox.github.io/blog/more2/"/>
-    <updated>2014-05-30T07:36:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/more2</id>
-    <content type="html"><![CDATA[<p>The raw content of the book surpassed 25,000 words in the last day.  So I added a second &lsquo;<a href="http://supersonicfox.github.io/more2">More 2</a>&rsquo; section to keep
-things in manageable size.  A pass at organizing the content has been done as well, so whether the book ends at 50,000 or more
-words, it basically has a first full pass at structure and flow.</p>
-
-<p>No agents yet.  I investigated self publishing during the last week, and it certainly seems manageable.  I just rather have someone skilled do what they are skilled at :&ndash;)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More Samples]]></title>
-    <link href="http://supersonicfox.github.io/blog/more-samples/"/>
-    <updated>2014-05-24T11:06:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/more-samples</id>
-    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;<a href="http://supersonicfox.github.io/more">More</a>&rsquo; section.  I did not want to change the samples section itself because
-that is meant to be concise.  I may be missing one or two that should be in there (maybe &lsquo;Dissent&rsquo;) to have more diversity, but
-it shouldn&rsquo;t just grow as more chapters seem to be &lsquo;possibly interesting&rsquo;.  The &lsquo;more&rsquo; section may grow over time as basically a
-sampling of the entire book.  Enjoy!  And thanks for all the encouragement.  Even some of my agent rejections seemed really encouraging.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
     <link href="http://supersonicfox.github.io/blog/site-launch/"/>
-    <updated>2014-05-21T15:17:00-07:00</updated>
+    <updated>2014-06-07T18:15:00-07:00</updated>
     <id>http://supersonicfox.github.io/blog/site-launch</id>
-    <content type="html"><![CDATA[<p>Earlier today I decided that I should have a site for the book.  After doing so many startups, and with some great services out there,
-launching the IT (or Infrastructure) of a new company is incredibly easy.  A web site is among the easiest of the infrastructure to
-set up.  I purchased the domain name, pointed it at github.io, cloned and customized Octopress, and after a few &lsquo;rake generate; rake deploy&rsquo;
-edit cycles, the book proposal and this blog posting were up and alive.</p>
+    <content type="html"><![CDATA[<p>I have been writing a book (SlumsOfPaloAlto)[<a href="http://slumsofpaloalto.com/">http://slumsofpaloalto.com/</a>] and playing a lot of tennis.  The tennis was a major part of
+how I transformed in the last year, and may have been a major enabler for writing the book.  Losing 40 pounds of fat, gaining 10+ of muscle,
+and having an insanely fun &amp; social activity may have been major catalysts for my transformation.  The book will cover some of what
+happened with tennis, but it has a lot of topics in it, and it is mostly about learning &amp; kindness repeatedly being applied after
+repeated failures.  This site and blog will focus just on tennis, hoping to help others be better players, and told from
+a somewhat elderly, not super-fit (at the start), but definitely committed player.  Not a professional tennis player, but a professional <em>learner</em> who
+applied those skills to tennis.</p>
+
+<p>I hope it helps someone else have a little better (or a lot better) of a game, while still having an insanely fun time playing.</p>
 ]]></content>
   </entry>
   
