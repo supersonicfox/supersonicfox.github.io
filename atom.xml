@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
-  <link href="http://supersonicfox.github.io/atom.xml" rel="self"/>
-  <link href="http://supersonicfox.github.io/"/>
-  <updated>2014-08-09T02:42:21-07:00</updated>
-  <id>http://supersonicfox.github.io/</id>
+  <link href="http://supersonicfox.com/atom.xml" rel="self"/>
+  <link href="http://supersonicfox.com/"/>
+  <updated>2014-08-10T19:56:49-07:00</updated>
+  <id>http://supersonicfox.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Trust or Replace]]></title>
+    <link href="http://supersonicfox.com/blog/trust-or-replace/"/>
+    <updated>2014-08-10T05:40:00-07:00</updated>
+    <id>http://supersonicfox.com/blog/trust-or-replace</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Progress through failing]]></title>
-    <link href="http://supersonicfox.github.io/blog/progress-through-failing/"/>
+    <link href="http://supersonicfox.com/blog/progress-through-failing/"/>
     <updated>2014-08-08T05:40:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/progress-through-failing</id>
+    <id>http://supersonicfox.com/blog/progress-through-failing</id>
     <content type="html"><![CDATA[<p>After I wrote the first version of <a href="http://slumsofpaloalto.com/">http://slumsofpaloalto.com/</a> (the MVB), my aunt sent me a very interesting article.
 It was about &lsquo;Focus&rsquo; and two mildly successful people: Bill Gates and Warren Buffet.  You can read it <a href="http://qz.com/231907/why-bill-gates-and-warren-buffett-are-so-successful-in-one-word/">Here</a>.</p>
 
@@ -64,9 +73,9 @@ potentially beat Federer.  Or at least the best game I possibly can.  The best g
   
   <entry>
     <title type="html"><![CDATA[Need to be slow to be fast]]></title>
-    <link href="http://supersonicfox.github.io/blog/need-to-be-slow-to-be-fast/"/>
+    <link href="http://supersonicfox.com/blog/need-to-be-slow-to-be-fast/"/>
     <updated>2014-08-04T05:40:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/need-to-be-slow-to-be-fast</id>
+    <id>http://supersonicfox.com/blog/need-to-be-slow-to-be-fast</id>
     <content type="html"><![CDATA[<p>About nine or ten months into my transformation, I was hitting serves and ground-strokes at about 90 MPH.  &ldquo;What!&rdquo;
 Yes, really.  You can ask my partners, but more objectively you can ask my Go Pro Hero.  The Go Pro is a
 wide angle, 120 FPS, video camera.  It has other abilities too, but for tennis, this particular mode will
@@ -139,9 +148,9 @@ is still attached to me, and I would like yours to be too.</p>
   
   <entry>
     <title type="html"><![CDATA[Model]]></title>
-    <link href="http://supersonicfox.github.io/blog/model/"/>
+    <link href="http://supersonicfox.com/blog/model/"/>
     <updated>2014-07-28T05:40:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/model</id>
+    <id>http://supersonicfox.com/blog/model</id>
     <content type="html"><![CDATA[<p>Previously I said I could provide nothing to help you determine &ldquo;What should I actually be practicing?&rdquo;  That
 was a lie, but it was important to get out of the way: <em>you</em> are responsible for what you should be practicing.
 Coaches, friends, random strangers, and so on can suggest things you should be practicing.  They may be right
@@ -193,9 +202,9 @@ makes you feel awesome.  &ldquo;If I could play like that, I would feel awesome!
   
   <entry>
     <title type="html"><![CDATA[Practice Makes Better]]></title>
-    <link href="http://supersonicfox.github.io/blog/practice-makes-better/"/>
+    <link href="http://supersonicfox.com/blog/practice-makes-better/"/>
     <updated>2014-07-27T18:40:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/practice-makes-better</id>
+    <id>http://supersonicfox.com/blog/practice-makes-better</id>
     <content type="html"><![CDATA[<p>So now that you have said &ldquo;hello&rdquo; a few times to your first partner (if not, please go back one blog),
 you might be wondering &ldquo;What should I actually be practicing?&rdquo;</p>
 
@@ -294,9 +303,9 @@ or anyone willing to hit with you</p>
   
   <entry>
     <title type="html"><![CDATA[First Partner]]></title>
-    <link href="http://supersonicfox.github.io/blog/first-partner/"/>
+    <link href="http://supersonicfox.com/blog/first-partner/"/>
     <updated>2014-07-27T10:40:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/first-partner</id>
+    <id>http://supersonicfox.com/blog/first-partner</id>
     <content type="html"><![CDATA[<p>I commonly refer to everyone with whom I play tennis as my &lsquo;partner&rsquo;.  I have no opponents, just partners who are either
 on the same side of the net, or partners on the opposite of the net.  This may be because we switch up
 the matches quite a bit, or because I appreciate their help when we warm up, or just because I am a friendly guy
@@ -333,9 +342,9 @@ you so.</p>
   
   <entry>
     <title type="html"><![CDATA[Play]]></title>
-    <link href="http://supersonicfox.github.io/blog/play/"/>
+    <link href="http://supersonicfox.com/blog/play/"/>
     <updated>2014-07-26T18:15:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/play</id>
+    <id>http://supersonicfox.com/blog/play</id>
     <content type="html"><![CDATA[<p>Now that my daughter and I had equipment, we needed just a couple more things.  Courts and Time.</p>
 
 <p>We live within walking distance of Mitchell Park in Palo Alto.  Mitchell has amazing tennis courts!  They clean themselves
@@ -373,9 +382,9 @@ So if my daughter became even mildly serious about tennis, having 30+ pounds of 
   
   <entry>
     <title type="html"><![CDATA[Equipment]]></title>
-    <link href="http://supersonicfox.github.io/blog/equipment/"/>
+    <link href="http://supersonicfox.com/blog/equipment/"/>
     <updated>2014-07-14T18:15:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/equipment</id>
+    <id>http://supersonicfox.com/blog/equipment</id>
     <content type="html"><![CDATA[<p>To play tennis, you  need equipment.  I grew up with tennis in the 1970s and 1980s.  By the time I was &ldquo;serious&rdquo; about tennis,
 I played with Head Professional aluminum rackets.  I loved them: indestructible unless you were ridiculously mad at the court.  Until
 2013, &ldquo;Red Heads&rdquo; were my only kind of racket:  Tiny, stiff, and indestructible.</p>
@@ -431,9 +440,9 @@ ball hopper.</p>
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
-    <link href="http://supersonicfox.github.io/blog/site-launch/"/>
+    <link href="http://supersonicfox.com/blog/site-launch/"/>
     <updated>2014-06-07T18:15:00-07:00</updated>
-    <id>http://supersonicfox.github.io/blog/site-launch</id>
+    <id>http://supersonicfox.com/blog/site-launch</id>
     <content type="html"><![CDATA[<p>I have been writing a book <a href="http://slumsofpaloalto.com/">http://slumsofpaloalto.com/</a> and playing a lot of tennis.  The tennis was a major part of
 how I transformed in the last year, and may have been a major enabler for writing the book.  Losing 40 pounds of fat, gaining 10+ of muscle,
 and having an insanely fun &amp; social activity may have been major catalysts for my transformation.  The book will cover some of what

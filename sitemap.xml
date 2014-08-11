@@ -1,91 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://supersonicfox.github.io/blog/site-launch/</loc>
+        <loc>http://supersonicfox.com/blog/site-launch/</loc>
         <lastmod>2014-06-07T19:09:22-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/equipment/</loc>
+        <loc>http://supersonicfox.com/blog/equipment/</loc>
         <lastmod>2014-07-26T17:26:36-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/play/</loc>
+        <loc>http://supersonicfox.com/blog/play/</loc>
         <lastmod>2014-07-26T17:31:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/first-partner/</loc>
+        <loc>http://supersonicfox.com/blog/first-partner/</loc>
         <lastmod>2014-07-27T10:58:30-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/practice-makes-better/</loc>
+        <loc>http://supersonicfox.com/blog/practice-makes-better/</loc>
         <lastmod>2014-07-27T19:04:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/model/</loc>
+        <loc>http://supersonicfox.com/blog/model/</loc>
         <lastmod>2014-08-04T07:48:46-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/need-to-be-slow-to-be-fast/</loc>
+        <loc>http://supersonicfox.com/blog/need-to-be-slow-to-be-fast/</loc>
         <lastmod>2014-08-08T18:04:13-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/progress-through-failing/</loc>
+        <loc>http://supersonicfox.com/blog/progress-through-failing/</loc>
         <lastmod>2014-08-09T02:42:08-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/bio/</loc>
+        <loc>http://supersonicfox.com/blog/trust-or-replace/</loc>
+        <lastmod>2014-08-10T19:56:35-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://supersonicfox.com/bio/</loc>
         <lastmod>2014-05-21T15:51:44-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/archives/</loc>
-        <lastmod>2014-08-09T02:42:08-07:00</lastmod>
+        <loc>http://supersonicfox.com/blog/archives/</loc>
+        <lastmod>2014-08-10T19:56:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/blog/</loc>
-        <lastmod>2014-08-09T02:42:08-07:00</lastmod>
+        <loc>http://supersonicfox.com/blog/</loc>
+        <lastmod>2014-08-10T19:56:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/contact/</loc>
+        <loc>http://supersonicfox.com/contact/</loc>
         <lastmod>2014-06-07T19:00:05-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/</loc>
-        <lastmod>2014-08-09T02:42:08-07:00</lastmod>
+        <loc>http://supersonicfox.com/</loc>
+        <lastmod>2014-08-10T19:56:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/</loc>
+        <loc>http://supersonicfox.com/</loc>
         <lastmod>2014-07-27T10:40:38-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/more/</loc>
+        <loc>http://supersonicfox.com/more/</loc>
         <lastmod>2014-05-30T07:50:27-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/more2/</loc>
+        <loc>http://supersonicfox.com/more2/</loc>
         <lastmod>2014-06-01T16:35:40-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/more3/</loc>
+        <loc>http://supersonicfox.com/more3/</loc>
         <lastmod>2014-06-02T11:13:59-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/more4/</loc>
+        <loc>http://supersonicfox.com/more4/</loc>
         <lastmod>2014-06-02T21:38:07-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/robots.txt</loc>
+        <loc>http://supersonicfox.com/robots.txt</loc>
         <lastmod>2014-05-21T11:22:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/sample/</loc>
+        <loc>http://supersonicfox.com/sample/</loc>
         <lastmod>2014-05-30T07:43:27-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/sponsors/</loc>
-        <lastmod>2014-08-09T02:42:08-07:00</lastmod>
+        <loc>http://supersonicfox.com/sponsors/</loc>
+        <lastmod>2014-08-10T19:56:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://supersonicfox.github.io/synopsis/</loc>
+        <loc>http://supersonicfox.com/synopsis/</loc>
         <lastmod>2014-05-21T16:16:45-07:00</lastmod>
     </url>
 </urlset>
