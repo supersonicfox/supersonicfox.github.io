@@ -47,7 +47,7 @@ So I am constantly failing and losing because I am _constantly practicing_ the s
 go.  I may never make it.  But when I play a game with you, I am treating you like Federer, and playing a game that could
 potentially beat Federer.  Or at least the best game I possibly can.  The best game I could ever have given where I am today.
 
-So that is why I fail a lot but also progressed a lot.  Failing to beat Federer is not a particularly bad thing.
+So that is why I fail a lot but have also progressed a lot.  Failing to beat Federer is not a particularly bad thing.
 
 
 

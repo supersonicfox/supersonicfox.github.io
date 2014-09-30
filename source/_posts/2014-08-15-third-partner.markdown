@@ -30,7 +30,9 @@ an _awesome_ serve vs. a 'that is what everyone does' serve.
 ## I am not a coach
 
 OK, so you are watching your model, imagining you serve like that, and maybe you have a coach/instructor that can give you feedback.
-You are on your way, and can skip to the 'Balls' section if happy.  Again, I am _not a coach_.  At this point, I will be relaying
+You are on your way, and can merrily skip to the next blog entry if you are content.
+
+If not content, read on, but remember, I am _not a coach_.  At this point, I will be relaying
 things that work for me, or were told to me by John.  But what John tells me is different from what John tells other students,
 so I have no idea if what I am going to relay to you will be useful to you.  But it will at least show the thought and later the
 originality that goes into having an awesome serve!
