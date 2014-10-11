@@ -54,9 +54,6 @@ it is gone!
 Returning a 'B' is a different topic, but understanding a 'B' is a gateway to understanding the insanity of 'slice'.  Which
 is incredibly awesome!!!
 
-## More
-
-More on El Camino as soon as possible.
 
 
 
