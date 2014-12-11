@@ -4,7 +4,7 @@
   <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
   <link href="http://supersonicfox.com/atom.xml" rel="self"/>
   <link href="http://supersonicfox.com/"/>
-  <updated>2014-11-24T14:56:08-08:00</updated>
+  <updated>2014-12-11T05:29:10-08:00</updated>
   <id>http://supersonicfox.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Time dilation]]></title>
+    <link href="http://supersonicfox.com/blog/time-dilation/"/>
+    <updated>2014-12-11T20:40:00-08:00</updated>
+    <id>http://supersonicfox.com/blog/time-dilation</id>
+    <content type="html"><![CDATA[<p>I stand near the service line (halfway) when I return serve.  People find this unimaginable, even inconceivable.
+The ball is coming at 120 MPH and you are standing there?!?!</p>
+
+<p>The answer to how I can stand there has two parts, but the first is basically &lsquo;Time Dilation&rsquo;.  Just like computers
+do a lot of things in a short amount of time, you too can do a lot of things in a short amount of time.  You just don&rsquo;t
+realize it.  You are operating on &lsquo;slow&rsquo;.</p>
+
+<p>The difference between &lsquo;slow&rsquo; and &lsquo;fast&rsquo; is not the effort, energy, or
+speed aspects of what a person does.  It is changing the <em>unit of time</em> at which the person does exactly the same
+things you are doing on &lsquo;slow&rsquo;.  So the simplest way to think about this is to adjust time to be in equivalent &lsquo;slow&rsquo; units
+vs. thinking the person is doing more in a unit of time.  This is exactly how 120 FPS becomes 30 FPS.</p>
+
+<p>For most people, thinking in &lsquo;tens&rsquo; is the easiest.  So imagine I (or maybe Roger) is operating at 10x the speed of you
+on the tennis court.  Where <em>one second</em> passes for you, <em>ten seconds</em> passed for Roger.  Where three tenths of a second
+passed for you, three seconds passed for Roger.  You can get a lot done in three seconds!  And have a sip of coffee to
+boot.</p>
+
+<p>If you want to see the time dilation in action, just slow down the video of Roger to going at 1/10th its normal speed.
+I believe you will see <em>continuous motion</em> at that speed.  Or something really close to it.  Now do the same of some
+video of your club matches.  And everyone will look &lsquo;frozen&rsquo;.  That is time dilation.  Mages are in continuous motion at
+about 10x the speed of muggles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In the rain]]></title>
+    <link href="http://supersonicfox.com/blog/in-the-rain/"/>
+    <updated>2014-11-30T20:40:00-08:00</updated>
+    <id>http://supersonicfox.com/blog/in-the-rain</id>
+    <content type="html"><![CDATA[<p>It is raining in California.  This is a good thing, because we need a lot of water and we don&rsquo;t have it.  The rain causes my internet to go out (another story),
+which is actually enjoyable because the internet is a dangerous drug.  Cold turkey the drug!</p>
+
+<p>It doesn&rsquo;t rain very much in California any more: climate change has caused our weather to be &lsquo;nicer and nicer&rsquo;.  Tennis is played outside, so
+tennis benefits from this niceness.  It is hard to not be able to play tennis in California (or at least the Bay Area).</p>
+
+<p>You can certainly play tennis in the rain.  Don&rsquo;t play if you start sliding around, but other than that, there is absolutely nothing preventing playing in the rain. Yes,
+the balls will get wet and be no longer Wimbledon quality.  Yes, the racket will get wet and you may have to replace the grip or even the strings.  So what?</p>
+
+<p>Well, for most people, even a drizzle makes them go somewhere else.
+On my courts, when I manage to get two-three hours in a day (in the rain or between spells), almost no one else shows up at all.</p>
+
+<h2>Better courts after a rain</h2>
+
+<p>If it has recently rained but is no longer raining, you can get your courts (hard courts) in better shape by leveraging the power of the sun.  The sun is <em>really good</em>
+at drying things, but it needs &lsquo;to see&rsquo; the water.  Puddles are not good (can see the top but not below), so you should squeegee puddles and spread them around.  You
+can also blow things around with an electric blower, mop with a blanket, push with a broom, etc.</p>
+
+<p>If you get the water spread out, it takes about 15-30 minutes for a wet court to be quite playable.  So you can choose your ball-wetness to wait time.</p>
+
+<p>I rarely wait for much of anything nowadays :&ndash;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Being a Mage]]></title>
@@ -1091,102 +1149,6 @@ simply say &ldquo;No!&rdquo; when my shots go into the net.  Go long!  That is f
 racket.  But I say &ldquo;No!&rdquo; when my shots go into the net.</p>
 
 <p>John would likely say &ldquo;That was good!  Now try this!&rdquo;  And that is why John is an amazingly better coach than me.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Crush or eat the Donut!]]></title>
-    <link href="http://supersonicfox.com/blog/crush-the-donut/"/>
-    <updated>2014-08-20T19:40:00-07:00</updated>
-    <id>http://supersonicfox.com/blog/crush-the-donut</id>
-    <content type="html"><![CDATA[<p>A donut is when you have won no games.  You have a zero vs. the opponent&rsquo;s who-knows-what.  In normal set play,
-your zero is going against their goal of winning six games.  Being 0-5 on your serve is not a lot of fun,
-unless you think it is!  And then the only right attitude is: crush or eat that donut!</p>
-
-<p>Today I was playing with a good player, and after a good first set, given work-timing constraints,
-we decide to play a &lsquo;bonus&rsquo; four games.
-Two for his serves, two for mine.</p>
-
-<p>He went first and I was fiddling/practicing my serve and failed to fiddle well enough the first pass through.
-So as of my last service, it was 0 serving 3.  Giant DONUT!  I don&rsquo;t like having donuts, but I don&rsquo;t care about
-them today against my able opponent.  I care about them at Wimbledon &ldquo;tomorrow&rdquo; when they will be against Federer or Nadal.
-Seriously!</p>
-
-<!-- more -->
-
-
-<p>So I have this big, giant, gargantuous, donut facing me!  And what do I do?  I serve the biggest, giantous, gargantuous-ness
-serves I could possibly do.  My first &ldquo;second-serve&rdquo; is an ace!  And through and through, the vorpal racket went snicker-snack.
-That game it was on.  No donut for me.</p>
-
-<p>By being prepared to lose, I was similarly prepared to be something better.  Progress through failure.</p>
-
-<p>I could have easily won <em>any</em> of my serves today by holding back, to leverage my particular skills.
-But to beat Federer, I have to <em>progress</em>.  And today, I did that vs. a donut.  And tomorrow, so should you.</p>
-
-<h2>USTA is a bit clueless</h2>
-
-<p>On the same day as the above, I received amongst the silliest emails I have received in my life.</p>
-
-<p><img src="http://supersonicfox.com/images/USTA_image.png"/></p>
-
-<p>If winning vs. being awesome isn&rsquo;t important to you, just play against a bunch of gophers.  Bill Murray will enjoy the company.  You might
-win, but those gophers are quite wiley!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fourth Partner]]></title>
-    <link href="http://supersonicfox.com/blog/fourth-partner/"/>
-    <updated>2014-08-19T19:40:00-07:00</updated>
-    <id>http://supersonicfox.com/blog/fourth-partner</id>
-    <content type="html"><![CDATA[<p>During the late summer and fall of my transformation, I encountered a couple problems.</p>
-
-<ol>
-<li> I couldn&rsquo;t really practice &ldquo;real volleys&rdquo;</li>
-<li> I couldn&rsquo;t regularly practice &ldquo;real groundstrokes&rdquo;</li>
-</ol>
-
-
-<h2>Real Volleys</h2>
-
-<p>The problem with &lsquo;Real Volleys&rsquo; is that good volleys are meant to end a point.  Being at net puts you in great control and
-great peril at the same time.  If you have control, you must use it.  To win!  Practicing with a friendly human partner,
-it is somewhat &lsquo;not nice&rsquo; to end the point every time they hit a ball to you.  It makes you feel guilty, and until you
-can hold almost a dozen balls (more about that soon), it makes practice sessions very much about picking up balls.  If you
-are playing with a human partner, I recommend you &lsquo;win&rsquo; on the third ball.  Two back to them, and after that you do whatever
-it takes to win.  And they do the same.</p>
-
-<p>Trying to do &lsquo;Real Volleys&rsquo; against a wall is not realistic either.  Too predictable.  Hard to tell what shot you actually made.</p>
-
-<p>The ideal partner for &lsquo;Real Volleys&rsquo; is a Lobster!  Or a similar high-end, random-capable, ball machine.  Don&rsquo;t buy a ball machine
-if you are 4.x+ that isn&rsquo;t random-capable.  You will outgrow it almost instantly.  Good for kids and beginners, but not for you.
-If you outgrow your first partner (the wall), you need a partner with some modest level of braininess.</p>
-
-<!-- more -->
-
-
-<p>The ball machine I bought is a <a href="http://www.lobstersports.com/products/Ball_Machines/Battery_Machines_Model_Comparison/el04.htm">Lobster IV or V</a>,
-and the random capability of the machine enabled me to get my volleys into shape, and crush me at the base line (back then, not now).
-Very cool.  The ball machine sometimes has issues and certain limitations (can&rsquo;t serve to me), but if you can afford it or borrow
-it from me, it will make you a better player.</p>
-
-<h2>Real GroundStrokes</h2>
-
-<p>The problem with playing against a wall with real groundstrokes is that eventually the equation is not solvable.  Or at least
-not &lsquo;normal&rsquo;.  You hit a ball at the wall, and you have to immediately return it!  Like you were teleported to the opposite side
-of the net to receive your own ball.  Up to a point, this isn&rsquo;t so bad, but when my backhand &lsquo;blossomed&rsquo;, it was <em>impossible</em>
-for me to return my own shot with that little time.</p>
-
-<p>Again, a ball machine helps with this.  The Lobster can feed a ball every other second, which is quite fast, but isn&rsquo;t the
-insanity of returning your own shot.  And you can adjust timing to be whatever rhythm your play level is at.</p>
-
-<h2>Fiscal Reality</h2>
-
-<p>I realize that you may not be able to afford a ball machine.  Don&rsquo;t sweat it if you can&rsquo;t!  Eventually your &lsquo;second partner&rsquo; (people)
-will be all you need.  I don&rsquo;t use my ball machine <em>at all</em> anymore, because my partner-friends are much better than it.  And
-they are quite a bit more fun to play with.  So a ball machine might help for a time, but it is not critical and your three other
-partners (who I believe are all &lsquo;free&rsquo;) will be all you need.</p>
 ]]></content>
   </entry>
   
