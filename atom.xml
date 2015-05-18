@@ -4,7 +4,7 @@
   <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
   <link href="http://supersonicfox.com/atom.xml" rel="self"/>
   <link href="http://supersonicfox.com/"/>
-  <updated>2015-05-17T18:47:27-07:00</updated>
+  <updated>2015-05-17T18:51:29-07:00</updated>
   <id>http://supersonicfox.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -51,8 +51,9 @@ the first ten minutes.</p>
 <p>That is definitely cool looking, and having it calculate &lsquo;spin&rsquo; is definitely a great feature.</p>
 
 <p>For my backhand, I would guess this is actually pretty accurate.  I have a one-handed backhand,
-so it is a &lsquo;drive&rsquo; vs. a &lsquo;spin&rsquo;, and getting &ldquo;+5.0&rdquo; sounds about right.  I have Smart-Court numbers
-as well, and this all makes sense.</p>
+so it is a &lsquo;drive-with-spin&rsquo; vs. &lsquo;an-extreme-spin&rsquo; kind of shot, and getting &ldquo;+5.0&rdquo; sounds about right.
+I have Smart-Court numbers as well, and the numbers basically agree.  A cute orange sensor read and
+displayed information about my backhand very effectively and pleasantly.</p>
 
 <h2>The Bad</h2>
 
@@ -67,14 +68,16 @@ as well, and this all makes sense.</p>
 <h3>The sensor is stupid</h3>
 
 <p>Unfortunately, at a &lsquo;professional&rsquo; level of tennis, the sensor is stupid.  At the higher levels of tennis
-all shots have a ridiculous amount of spin.  Top-spin, slice, serves, and so on.  The sensor can&rsquo;t actually
-read any spins other than top-spin.  It simply gets confused about what the racket is doing.  This makes sense
+all shots have a ridiculous amount of spin.  Top-spin, slice, serves, and so on.  As far as I can tell,
+the sony sensor can&rsquo;t actually
+read any spins correctly other than top-spin ground strokes.  It simply gets confused about what the racket is doing.
+This makes sense
 when you consider what the sensor can easily know and not know.  Extreme slice is caused by a vertically moving
-racket.  That looks identical to a &lsquo;smash&rsquo; if you don&rsquo;t know which way the racket is facing and what height the
+racket.  That looks identical to a &lsquo;smash&rsquo; if you don&rsquo;t know which way the racket face is facing and what height the
 racket is.  And the sensor has logged <em>every one</em> of my forehand and backhand slices as &lsquo;smashes&rsquo;.  Which is stupid.</p>
 
 <p>Similarly, the spin caused by &lsquo;pronation&rsquo; on a serve might look exactly like a driving motion if you don&rsquo;t realize
-the racket is facing downward at the time.</p>
+the racket face is facing downward at the time.</p>
 
 <p>Smart courts watch <em>the ball</em> which is always right about how fast and how many rpms it has on it.  So the
 sony sensor is simply attached to the wrong thing.  Everything it is doing is a guess.</p>
