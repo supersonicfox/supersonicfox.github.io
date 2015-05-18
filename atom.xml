@@ -4,7 +4,7 @@
   <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
   <link href="http://supersonicfox.com/atom.xml" rel="self"/>
   <link href="http://supersonicfox.com/"/>
-  <updated>2015-05-17T18:34:41-07:00</updated>
+  <updated>2015-05-17T18:47:27-07:00</updated>
   <id>http://supersonicfox.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -19,11 +19,11 @@
     <updated>2015-05-17T20:40:00-07:00</updated>
     <id>http://supersonicfox.com/blog/sony-sensor</id>
     <content type="html"><![CDATA[<p>I am technologically skilled and believe that some technologies can actually make us more effective people.
-But it isn&rsquo;t a guarantee, on either the technology&rsquo;s part or the persons part.  I worked for a heath
+But it isn&rsquo;t a guarantee, on either the technology&rsquo;s part or the person&rsquo;s part.  I worked for a heath
 and wellness company to try to make exercise more fun, I had a &ldquo;running&rdquo; GPS-based tracker for my skating
 routine as well as a heart-rate monitor, and I have an unusual number of GoPros.  At least for me,
 all of these things are fun for a while and then the novelty and utility wear off.  That seems to be
-a common pattern.</p>
+a common pattern for others as well.</p>
 
 <p>For tennis: a racket, a few balls, and focused practice are far better than any technology I have tried.
 Possibly Goliath (a <a href="http://www.sportsattack.com/store/ace-attack-tennis-machine/">http://www.sportsattack.com/store/ace-attack-tennis-machine/</a>) is an exception if
@@ -40,9 +40,48 @@ the first ten minutes.</p>
 
 <h2>The Good</h2>
 
+<p>Very cool concept and presentation.</p>
+
+<h3>My backhand looks like this</h3>
+
+<p>Based on hitting a few backhands the machine said my hitting patterns looks like this:</p>
+
 <p><img src="http://supersonicfox.com/images/IMG_0275.PNG"/></p>
 
-<p><img src="http://supersonicfox.com/images/IMG_0276.PNG"/></p>
+<p>That is definitely cool looking, and having it calculate &lsquo;spin&rsquo; is definitely a great feature.</p>
+
+<p>For my backhand, I would guess this is actually pretty accurate.  I have a one-handed backhand,
+so it is a &lsquo;drive&rsquo; vs. a &lsquo;spin&rsquo;, and getting &ldquo;+5.0&rdquo; sounds about right.  I have Smart-Court numbers
+as well, and this all makes sense.</p>
+
+<h2>The Bad</h2>
+
+<p>The bad can be divided into two buckets:</p>
+
+<ul>
+<li> The sensor is stupid</li>
+<li> The sensor is useless</li>
+</ul>
+
+
+<h3>The sensor is stupid</h3>
+
+<p>Unfortunately, at a &lsquo;professional&rsquo; level of tennis, the sensor is stupid.  At the higher levels of tennis
+all shots have a ridiculous amount of spin.  Top-spin, slice, serves, and so on.  The sensor can&rsquo;t actually
+read any spins other than top-spin.  It simply gets confused about what the racket is doing.  This makes sense
+when you consider what the sensor can easily know and not know.  Extreme slice is caused by a vertically moving
+racket.  That looks identical to a &lsquo;smash&rsquo; if you don&rsquo;t know which way the racket is facing and what height the
+racket is.  And the sensor has logged <em>every one</em> of my forehand and backhand slices as &lsquo;smashes&rsquo;.  Which is stupid.</p>
+
+<p>Similarly, the spin caused by &lsquo;pronation&rsquo; on a serve might look exactly like a driving motion if you don&rsquo;t realize
+the racket is facing downward at the time.</p>
+
+<p>Smart courts watch <em>the ball</em> which is always right about how fast and how many rpms it has on it.  So the
+sony sensor is simply attached to the wrong thing.  Everything it is doing is a guess.</p>
+
+<h3>The sensor is useless</h3>
+
+<p>So assume the sensor isn&rsquo;t stupid for a particular level of play (3.5 and below).  The real problem is &ldquo;so what&rdquo;?</p>
 ]]></content>
   </entry>
   
